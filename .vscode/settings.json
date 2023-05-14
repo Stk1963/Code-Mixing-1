@@ -1,0 +1,28 @@
+{
+    "html.format.indentInnerHtml": true,
+    "html.format.preserveNewLines": true,
+    "html.format.templating": true,
+    "html.format.unformatted": "",
+    "html.suggest.html5": false,
+    "html.trace.server": "verbose",
+    "html.preview.scrollPreviewWithEditor": true,
+    "html.trace": "verbose",
+    "[html]": {
+        "editor.linkedEditing": true
+    },
+    "html.format.indentHandlebars": true,
+    "editor.linkedEditing": true,
+    "editor.accessibilityPageSize": 20,
+    "editor.accessibilitySupport": "auto",
+    "prettier.useEditorConfig": false,
+    "prettier.bracketSpacing": false,
+    "prettier.withNodeModules": false,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.requirePragma": true,
+    "prettier.resolveGlobalModules": false,
+    "prettier.insertPragma": true,
+    "prettier.enableDebugLogs": true,
+    "prettier.enable": false
+}
